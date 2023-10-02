@@ -15,7 +15,7 @@ setup(
     long_description_content_type='text/markdown',
     packages=find_packages(),
     install_requires=["pandas>=1.0.0,<2.0.0",
-                    "streamlit>=1.18."
+                    "streamlit>=1.18.0"
                     
                     ],
 )
